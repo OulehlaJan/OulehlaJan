@@ -28,7 +28,6 @@ jobs:
           STOP_AT_OTHER: true # optional
           IGNORED_LANGUAGES: YAML TOML # optional
           ### commit
-          TARGET_BRANCH: main # optional
           TARGET_PATH: README.md # optional
           AUTHOR_NAME: oulehlajan # optional
           AUTHOR_EMAIL: oulehlajan@gmail.com # optional
