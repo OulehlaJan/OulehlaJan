@@ -1,0 +1,15 @@
+name: Waka Readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/20 * * * *"
+
+jobs:
+  update-readme:
+    name: Update this repo's README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: oulehlajan/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.waka_c6dc7f33-7124-4f95-b732-e8e97a9006b3 }}
