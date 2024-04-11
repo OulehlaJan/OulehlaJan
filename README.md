@@ -12,11 +12,7 @@
 
 <!--START_SECTION:waka-->
 
-```javascript
-From: 03 April 2024 - To: 10 April 2024
-
-Total Time: 0 secs
-
+```txt
 No activity tracked
 ```
 
