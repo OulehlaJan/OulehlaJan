@@ -12,4 +12,4 @@ jobs:
     steps:
       - uses: oulehlajan/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.waka_c6dc7f33-7124-4f95-b732-e8e97a9006b3 }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
