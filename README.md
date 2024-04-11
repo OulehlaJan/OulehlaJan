@@ -6,7 +6,7 @@
 
 💬 Ask me about anything [here](https://github.com/oulehlajan/oulehlajan/issues)
 
-<a href="https://github.com/oulehlajan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oulehlajan&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://github.com/oulehlajan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oulehlajan&layout=compact&theme=gotham&hide_border=true" /></a>
 
 📊 **this week i spent my time on:**
 
