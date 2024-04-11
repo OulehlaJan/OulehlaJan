@@ -1,4 +1,4 @@
-<p align="center">Hi, I’m @OulehlaJan a self-taught passionate FrontEnd developer from Czechia</p>
+<h2 align="center">Hi, I’m @OulehlaJan a self-taught passionate FrontEnd developer from Czechia</h2>
 
 👀 I’m interested in JavaScript and UX design
 
