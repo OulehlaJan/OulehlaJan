@@ -12,8 +12,12 @@
 
 <!--START_SECTION:waka-->
 
-```txt
+```javascript
+From: 11 March 2024 - To: 10 April 2024
 
+Total Time: 0 secs
+
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
