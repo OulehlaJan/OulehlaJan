@@ -8,10 +8,10 @@
 
 <a href="https://github.com/oulehlajan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oulehlajan&layout=compact&theme=buefy&hide_border=true" /></a>
 
+📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-```txt
 
-```
+
 <!--END_SECTION:waka-->
 
 **languages and tools:**  
