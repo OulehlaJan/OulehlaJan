@@ -2,13 +2,11 @@
 
 👀 I’m interested in JavaScript and UX design
 
-  <img align="right" alt="GIF" width="500" height="320" src='https://github.com/OulehlaJan/OulehlaJan/assets/128754127/24febf27-2084-4c8d-a1df-a61cc9654c50' />
-
-💬 Ask me about anything [here](https://github.com/oulehlajan/oulehlajan/issues)
-
+<img align="right" alt="GIF" width="500" height="320" src='https://github.com/OulehlaJan/OulehlaJan/assets/128754127/24febf27-2084-4c8d-a1df-a61cc9654c50' />
+ 
 <a href="https://github.com/oulehlajan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oulehlajan&layout=compact&theme=gotham" /></a>
 
-📊 **this month i spent my time on:**
+<h3>📊 This month i spent my time on:</h3>
 
 <!--START_SECTION:waka-->
 
@@ -23,20 +21,22 @@ CSS          0 secs          ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-**languages and tools:**  
+<h3>Languages and tools:</h3>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
-**Want to learn in near future:**  
+<h3>Want to learn in near future:</h3>  
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<!---
-OulehlaJan/OulehlaJan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+<h3>💬Where to find me</h3>
+<p>
+<a href="https://github.com/oulehlajan/oulehlajan/issues" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<!--
+<a href="https://www.linkedin.com/in/oulehlajan" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+</p>
+-->
