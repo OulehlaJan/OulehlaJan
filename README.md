@@ -6,6 +6,7 @@
 
 <a href="https://github.com/oulehlajan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oulehlajan&layout=compact&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&card_width=326" /></a>
 
+##
 <h3>📊 This week i spent my time on:</h3>
 
 <!--START_SECTION:waka-->
@@ -20,7 +21,7 @@ CSS          0 secs          ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
+##
 <h3>Languages and tools:</h3>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -33,6 +34,7 @@ CSS          0 secs          ▒░░░░░░░░░░░░░░░░
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+##
 <h3>💬Where to find me</h3>
 <p>
 <a href="https://github.com/oulehlajan/oulehlajan/issues" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
