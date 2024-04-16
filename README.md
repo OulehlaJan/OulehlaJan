@@ -9,6 +9,7 @@
 <h3>📊 This month i spent my time on:</h3>
 
 <!--START_SECTION:waka-->
+
 ```javascript
 From: 16 March 2024 - To: 15 April 2024
 
@@ -17,6 +18,7 @@ Total Time: 21 mins
 JavaScript   21 mins         ████████████████████████▓   99.12 %
 CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 ```
+
 <!--END_SECTION:waka-->
 
 <h3>Languages and tools:</h3>
