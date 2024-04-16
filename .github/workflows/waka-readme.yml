@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
         # this action name
-      - uses: anmol098/waka-readme@master # do NOT replace with anything else
+      - uses: anmol098/waka-readme-stats@master # do NOT replace with anything else
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           BRANCH: "main"
