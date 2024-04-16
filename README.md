@@ -11,9 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```javascript
-🕑︎ Time Zone: Czechia/Ostrava
-
-From: 16 March 2024 - To: 15 April 2024
+From: 10 April 2024 - To: 15 April 2024
 
 Total Time: 21 mins
 
