@@ -1,15 +1,14 @@
 <h2 align="center">Hi, I’m @OulehlaJan a self-taught passionate Web developer from Czechia</h2>
 
-👀 I’m interested in JavaScript and UX design
+<h3>👀 I’m interested in JavaScript and UX design</h3>
 
 <img align="right" alt="GIF" width="500" height="320" src='https://github.com/OulehlaJan/OulehlaJan/assets/128754127/24febf27-2084-4c8d-a1df-a61cc9654c50' />
  
-<a href="https://github.com/oulehlajan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oulehlajan&layout=compact&theme=gotham" /></a>
+<a href="https://github.com/oulehlajan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oulehlajan&layout=compact&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true" /></a>
 
 <h3>📊 This month i spent my time on:</h3>
 
 <!--START_SECTION:waka-->
-
 ```javascript
 From: 16 March 2024 - To: 15 April 2024
 
@@ -18,7 +17,6 @@ Total Time: 21 mins
 JavaScript   21 mins         ████████████████████████▓   99.12 %
 CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 ```
-
 <!--END_SECTION:waka-->
 
 <h3>Languages and tools:</h3>
