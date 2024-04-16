@@ -13,6 +13,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
+Total Time: 21 mins
+
 JavaScript   21 mins         ████████████████████████▓   99.12 %
 CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 ```
