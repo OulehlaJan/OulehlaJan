@@ -12,7 +12,7 @@
 
 <!--START_SECTION:waka-->
 
-```txt
+```javascript
 Total Time: 21 mins
 
 JavaScript   21 mins         ████████████████████████▓   99.12 %
