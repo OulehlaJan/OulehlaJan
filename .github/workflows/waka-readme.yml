@@ -16,3 +16,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           BRANCH: "main"
+          SHOW_TOTAL: true
+          TIME_RANGE: last_30_days
+          
