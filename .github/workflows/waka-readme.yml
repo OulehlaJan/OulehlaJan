@@ -20,3 +20,5 @@ jobs:
           TIME_RANGE: last_30_days
           SHOW_TOTAL: true
           CODE_LANG: javascript
+          SHOW_TOTAL_CODE_TIME: true
+          SHOW_OS: true
