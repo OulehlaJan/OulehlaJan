@@ -18,4 +18,5 @@ jobs:
           BRANCH: "main"
           SHOW_TOTAL: true
           TIME_RANGE: last_30_days
+          SHOW_TIME: true
           
