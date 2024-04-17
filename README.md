@@ -4,8 +4,6 @@
 
 <h3>👀 I’m interested in JavaScript and UX design</h3>
 
-
-
 <a href="https://github.com/oulehlajan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oulehlajan&layout=compact&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&card_width=386" /></a>
 
 ##
@@ -46,4 +44,3 @@ CSS          0 secs          ▓░░░░░░░░░░░░░░░░
 <a href="https://www.linkedin.com/in/oulehlajan" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
 -->
-<img align="right" width="322" height="430" src='https://github.com/OulehlaJan/OulehlaJan/assets/128754127/be861647-299a-4836-aa2d-429438705071' />
