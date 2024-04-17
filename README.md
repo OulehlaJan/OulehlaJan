@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I’m @OulehlaJan a self-taught passionate Web developer from Czechia</h2>
 
-<p><img align="right" width="322" height="414" src='https://github.com/OulehlaJan/OulehlaJan/assets/128754127/be861647-299a-4836-aa2d-429438705071' /></p>
+<img align="right" width="322" height="414" src='https://github.com/OulehlaJan/OulehlaJan/assets/128754127/be861647-299a-4836-aa2d-429438705071' />
 
 <h3>👀 I’m interested in JavaScript and UX design</h3>
 
@@ -21,6 +21,7 @@ CSS          0 secs          ▓░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
 ##
 <h3>Languages and tools:</h3>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
