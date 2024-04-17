@@ -26,10 +26,10 @@ CSS          0 secs          ▓░░░░░░░░░░░░░░░░
 ##
 <!--[Repos]-->
 <a href="https://github.com/OulehlaJan/lorem-ipsum-generator" >
-  <img align="center" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=oulehlajan&repo=lorem-ipsum-generator&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&card_width=504" />
+  <img align="center" height="126" src="https://github-readme-stats.vercel.app/api/pin/?username=oulehlajan&repo=lorem-ipsum-generator&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&card_width=504" />
 </a>
 <a href="https://github.com/OulehlaJan/netflix-wishlist" >
-  <img align="center" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=oulehlajan&repo=netflix-wishlist&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&card_width=504" />
+  <img align="center" height="126" src="https://github-readme-stats.vercel.app/api/pin/?username=oulehlajan&repo=netflix-wishlist&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&card_width=504" />
 </a>
 
 <p></p>
