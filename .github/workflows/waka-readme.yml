@@ -21,3 +21,4 @@ jobs:
           TIME_RANGE: last_7_days
           SHOW_TOTAL: true
           CODE_LANG: javascript
+          IGNORED_LANGUAGES: Markdown
