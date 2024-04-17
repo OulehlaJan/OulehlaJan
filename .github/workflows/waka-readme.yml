@@ -8,7 +8,6 @@ on:
 env:
   TZ: "Europe/Prague" # UTC+02:00 (Prague Time)
 
-
 jobs:
   update-readme:
     name: Update this repo's README
