@@ -3,7 +3,7 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-     # runs at 0:00 every day (UTC+02:00)
+     # runs every day at 0:00 (UTC+02:00)
     - cron: "0 22 * * *"
 
 env:
@@ -21,5 +21,4 @@ jobs:
           BRANCH: "main"
           SHOW_TITLE: true
           TIME_RANGE: last_7_days
-          SHOW_TOTAL: true
-          CODE_LANG: javascript
+          
