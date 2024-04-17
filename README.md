@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I’m @OulehlaJan a self-taught passionate Web developer from Czechia</h2>
 
-<img align="right" width="470" height="410" src='https://github.com/OulehlaJan/OulehlaJan/assets/128754127/0abbc1d6-9d9b-4213-85f0-b2195609c69e' />
+<img align="right" width="380" height="488" src='https://github.com/OulehlaJan/OulehlaJan/assets/128754127/be861647-299a-4836-aa2d-429438705071' />
 
 <h3>👀 I’m interested in JavaScript and UX design</h3>
 
