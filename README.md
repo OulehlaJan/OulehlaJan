@@ -75,10 +75,11 @@ Markdown     0 secs          ░░░░░░░░░░░░░░░░░
 
 <!-- Follow Badge -->
 <!-- Visitor Badge -->
-<p>
-  <a href="https://github.com/oulehlajan?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/oulehlajan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://visitorbadge.io/status?path=oulehlajan"><img src="https://api.visitorbadge.io/api/visitors?path=oulehlajan&labelColor=%231155ba&countColor=%23236ad3" /></a>
+<p align="center" >
+  <a href="https://github.com/oulehlajan?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/oulehlajan?color=FFA657&labelColor=3E8ACC&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://visitorbadge.io/status?path=oulehlajan"><img src="https://api.visitorbadge.io/api/visitors?path=oulehlajan&labelColor=%233e8acc&countColor=%23ffa657" /></a>
 </p>
+
 
 <!--
 <a href="https://www.linkedin.com/in/oulehlajan" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
