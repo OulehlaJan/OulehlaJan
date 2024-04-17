@@ -39,7 +39,9 @@ CSS          0 secs          ▓░░░░░░░░░░░░░░░░
   <img src="https://github-readme-stats.vercel.app/api?username=oulehlajan&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&card_width=504&show_icons=true&icon_color=79C0FF&include_all_commits=true&rank_icon=github" alt="Github Stats">
 </p>
 
-<!--[WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oulehlajan&layout=compact)-->
+<!--
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oulehlajan&layout=compact&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&range=all_time)
+-->
 
 ##
 <h3>Languages and tools:</h3>
