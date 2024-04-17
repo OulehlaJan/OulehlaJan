@@ -21,4 +21,5 @@ jobs:
           BRANCH: "main"
           SHOW_TITLE: true
           TIME_RANGE: last_7_days
-          
+          SHOW_TOTAL: true
+          CODE_LANG: javascript
