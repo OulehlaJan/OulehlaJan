@@ -22,6 +22,8 @@ CSS          0 secs          ▓░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+##
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=oulehlajan&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&card_width=504)
 
 ##
