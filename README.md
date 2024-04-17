@@ -11,8 +11,10 @@
 
 <!--START_SECTION:waka-->
 
-```txt
+```javascript
 From: 09 April 2024 - To: 16 April 2024
+
+Total Time: 22 mins
 
 JavaScript   22 mins         ████████████████████████▒   97.62 %
 CSS          0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
