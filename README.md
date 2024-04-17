@@ -22,6 +22,8 @@ CSS          0 secs          ▓░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=oulehlajan&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&card_width=504)
+
 ##
 <h3>Languages and tools:</h3>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
