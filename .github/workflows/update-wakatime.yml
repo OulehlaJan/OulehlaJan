@@ -1,6 +1,7 @@
 name: Update WakaTime
 
 on:
+  workflow_dispatch:
   schedule:
     # runs every day at 0:00 (UTC+02:00)
     - cron: "0 22 * * *"
