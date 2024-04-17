@@ -4,6 +4,7 @@
 
 <h3>👀 I’m interested in JavaScript and UX design</h3>
 
+<!--[Top langs]-->
 <a href="https://github.com/oulehlajan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oulehlajan&layout=compact&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&card_width=504" /></a>
 
 ##
@@ -23,7 +24,7 @@ CSS          0 secs          ▓░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ##
-
+<!--[Repos]-->
 <a href="https://github.com/OulehlaJan/lorem-ipsum-generator" >
   <img align="center" height="126" src="https://github-readme-stats.vercel.app/api/pin/?username=oulehlajan&repo=lorem-ipsum-generator&show_owner=true&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&card_width=504" />
 </a>
@@ -31,6 +32,9 @@ CSS          0 secs          ▓░░░░░░░░░░░░░░░░
   <img align="center" height="126" src="https://github-readme-stats.vercel.app/api/pin/?username=oulehlajan&repo=netflix-wishlist&show_owner=true&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&card_width=504" />
 </a>
 
+<br></br>
+
+<!--[GitHub Stats]-->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oulehlajan&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&card_width=504&show_icons=true&icon_color=79C0FF&include_all_commits=true&rank_icon=github" alt="Github Stats">
 </p>
