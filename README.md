@@ -4,7 +4,7 @@
 
 <h3>👀 I’m interested in JavaScript and web design</h3>
 
-<!--[Top langs]-->
+<!-- Top langs -->
 <a href="https://github.com/oulehlajan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oulehlajan&layout=compact&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&card_width=504" /></a>
 
 ##
@@ -24,7 +24,7 @@ CSS          0 secs          ▓░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ##
-<!--[Repos]-->
+<!-- Repos -->
 <a href="https://github.com/OulehlaJan/lorem-ipsum-generator" >
   <img align="center" height="126" src="https://github-readme-stats.vercel.app/api/pin/?username=oulehlajan&repo=lorem-ipsum-generator&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&card_width=504" />
 </a>
@@ -34,7 +34,7 @@ CSS          0 secs          ▓░░░░░░░░░░░░░░░░
 
 <p></p>
 
-<!--[GitHub Stats]-->
+<!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oulehlajan&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&card_width=504&show_icons=true&icon_color=79C0FF&include_all_commits=true&rank_icon=github" alt="Github Stats">
 </p>
@@ -59,8 +59,15 @@ CSS          0 secs          ▓░░░░░░░░░░░░░░░░
 ##
 <h3>💬Where to find me</h3>
 <p>
-<a href="https://github.com/oulehlajan/oulehlajan/issues" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-<a href=mailto:oulehlajan@gmail.com target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/oulehlajan/oulehlajan/issues" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href=mailto:oulehlajan@gmail.com target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<!-- Follow Badge -->
+<!-- Visitor Badge -->
+<p>
+  <a href="https://github.com/oulehlajan?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/oulehlajan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/oulehlajan"><img alt="GitHub Visitors" src="https://img.shields.io/github/followers/oulehlajan?style=for-the-badge&label=VISITORS"></a>
 </p>
 
 ![VISITORS](https://pageview.vercel.app/?github_user=oulehlajan)
