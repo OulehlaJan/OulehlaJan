@@ -25,21 +25,18 @@ CSS          0 secs          ▓░░░░░░░░░░░░░░░░
 ##
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oulehlajan&repo=netflix-wishlist&show_owner=true&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&card_width=504" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oulehlajan&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&card_width=504&show_icons=true&icon_color=79C0FF&include_all_commits=true&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=oulehlajan&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&card_width=504&show_icons=true&icon_color=79C0FF&include_all_commits=true&rank_icon=github" />
+  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=oulehlajan&repo=netflix-wishlist&show_owner=true&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&card_width=504" />
 </a>
 
-##
-##
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=oulehlajan&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&card_width=504&show_icons=true&icon_color=79C0FF&include_all_commits=true&rank_icon=github)
+<!--[Github Stats](https://github-readme-stats.vercel.app/api?username=oulehlajan&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&card_width=504&show_icons=true&icon_color=79C0FF&include_all_commits=true&rank_icon=github)
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oulehlajan&repo=netflix-wishlist&show_owner=true&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&card_width=504)
+-->
 
 <!--[WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oulehlajan&layout=compact)-->
-
 
 ##
 <h3>Languages and tools:</h3>
