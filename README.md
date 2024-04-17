@@ -24,15 +24,15 @@ CSS          0 secs          ▓░░░░░░░░░░░░░░░░
 
 ##
 
-<a>
-  <img align="center" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=oulehlajan&repo=lorem-ipsum-generator&show_owner=true&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&card_width=504" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=oulehlajan&repo=lorem-ipsum-generator&show_owner=true&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&card_width=504" />
 </a>
-<a>
-  <img align="center" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=oulehlajan&repo=netflix-wishlist&show_owner=true&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&card_width=504" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=oulehlajan&repo=netflix-wishlist&show_owner=true&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&card_width=504" />
 </a>
 
 <!--
-<a>
+<a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=oulehlajan&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&card_width=504&show_icons=true&icon_color=79C0FF&include_all_commits=true&rank_icon=github" />
 </a>
 -->
