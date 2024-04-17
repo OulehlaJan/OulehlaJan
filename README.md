@@ -63,14 +63,14 @@ CSS          0 secs          ▓░░░░░░░░░░░░░░░░
   <a href=mailto:oulehlajan@gmail.com target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+##
+
 <!-- Follow Badge -->
 <!-- Visitor Badge -->
 <p>
   <a href="https://github.com/oulehlajan?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/oulehlajan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/oulehlajan"><img alt="GitHub Visitors" src="https://img.shields.io/github/followers/oulehlajan?style=for-the-badge&label=VISITORS"></a>
+  <a href="https://visitorbadge.io/status?path=oulehlajan"><img src="https://api.visitorbadge.io/api/visitors?path=oulehlajan&labelColor=%231155ba&countColor=%23236ad3" /></a>
 </p>
-
-![VISITORS](https://pageview.vercel.app/?github_user=oulehlajan)
 
 <!--
 <a href="https://www.linkedin.com/in/oulehlajan" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
