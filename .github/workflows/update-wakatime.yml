@@ -1,0 +1,30 @@
+name: Update WakaTime
+
+on:
+  schedule:
+    # runs every day at 0:00 (UTC+02:00)
+    - cron: "0 22 * * *"
+
+jobs:
+  update-readme:
+    name: Update this repo's README
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '14'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Update WakaTime data
+        run: npm run update-wakatime
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'oulehlajan'
+          git config --global user.email 'oulehlajan@gmail.com'
+          git add .
+          git commit -m "Update WakaTime data"
+          git push
