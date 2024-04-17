@@ -1,3 +1,5 @@
+<!-- Follow Badge -->
+<!-- Visitor Badge -->
 <p align="center" >
   <a href="https://github.com/oulehlajan?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/oulehlajan?color=FFA657&labelColor=3E8ACC&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://visitorbadge.io/status?path=oulehlajan"><img src="https://api.visitorbadge.io/api/visitors?path=oulehlajan&labelColor=%233e8acc&countColor=%23ffa657" /></a>
@@ -7,6 +9,7 @@
 
 <h3>👀 I’m interested in JavaScript and web design</h3>
 
+<!-- My Memoji -->
 <img align="right" width="322" height="414" src='https://github.com/OulehlaJan/OulehlaJan/assets/128754127/be861647-299a-4836-aa2d-429438705071' />
 
 <!-- Top langs -->
