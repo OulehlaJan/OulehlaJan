@@ -1,8 +1,9 @@
 <h2 align="center">Hi, I’m @OulehlaJan a self-taught passionate Web developer from Czechia</h2>
 
-<img align="right" width="480" height="430" src='https://github.com/OulehlaJan/OulehlaJan/assets/128754127/0abbc1d6-9d9b-4213-85f0-b2195609c69e' />
 
 <h3>👀 I’m interested in JavaScript and UX design</h3>
+
+<img align="right" width="480" height="430" src='https://github.com/OulehlaJan/OulehlaJan/assets/128754127/0abbc1d6-9d9b-4213-85f0-b2195609c69e' />
 
 <a href="https://github.com/oulehlajan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oulehlajan&layout=compact&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&card_width=386" /></a>
 
