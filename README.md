@@ -7,7 +7,7 @@
 
 <!-- Welcome animated text -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=32&duration=4000&pause=1500&color=79C0FF&random=false&width=435&lines=%F0%9F%91%8B%2C+Hi%2C+I%E2%80%99m+%40OulehlaJan" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=32&duration=4000&pause=1500&color=79C0FF&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B%2C+Hi%2C+I%E2%80%99m+%40OulehlaJan" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=noto&weight=600&size=22&pause=1000&color=FFA657&center=true&vCenter=true&random=false&width=910&lines=a+self-taught+passionate+Web+developer+from+Czechia" />
