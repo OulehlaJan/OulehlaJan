@@ -15,7 +15,7 @@
 
 <h3>👀 I’m interested in JavaScript and web design</h3>
 
-<!-- My Memoji (Do not copy, please) -->
+<!-- Memoji -->
 <img align="right" width="322" height="414" src='https://github.com/OulehlaJan/OulehlaJan/assets/128754127/be861647-299a-4836-aa2d-429438705071' />
 
 <!-- Top langs -->
