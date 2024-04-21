@@ -83,6 +83,13 @@ SCSS          10 mins         ▒░░░░░░░░░░░░░░░�
   <a href="https://visitorbadge.io/status?path=oulehlajan"><img src="https://api.visitorbadge.io/api/visitors?path=oulehlajan&labelColor=%233e8acc&countColor=%23ffa657" /></a>
 </p>
 
+<!-- Trophies -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=oulehlajan&margin-w=15&no-frame=true&title=Stars,Repositories,Commits,PullRequest,Issues&theme=onedark&no-bg=true" alt="Trophies">
+  </a>
+</p>
+
 <!--
 <a href="https://www.linkedin.com/in/oulehlajan" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
