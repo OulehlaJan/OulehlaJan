@@ -46,7 +46,7 @@ SCSS          10 mins         ▒░░░░░░░░░░░░░░░�
   <img align="center" height="126" src="https://github-readme-stats.vercel.app/api/pin/?username=oulehlajan&repo=netflix-wishlist&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&card_width=504" />
 </a>
 <a href="https://github.com/OulehlaJan/animated-delete-button" >
-  <img align="center" height="126" src="https://github-readme-stats.vercel.app/api/pin/?username=oulehlajan&repo=animated-delete-button&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&card_width=984" />
+  <img align="center" height="126" src="https://github-readme-stats.vercel.app/api/pin/?username=oulehlajan&repo=animated-delete-button&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&card_width=504" />
 </a>
 
 <p></p>
