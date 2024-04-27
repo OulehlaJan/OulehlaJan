@@ -75,17 +75,29 @@ SCSS         9 mins          ▒░░░░░░░░░░░░░░░░
 </p>
 
 ##
+
 <h3>Languages and tools:</h3>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<div>
+  <img src="./icons/HTML.svg" width="48">
+  <img src="./icons/CSS.svg" width="48">
+  <img src="./icons/JavaScript.svg" width="48">  
+  <img src="./icons/React-Dark.svg" width="48">
+  <img src="./icons/Bootstrap.svg" width="48"> 
+  <img src="./icons/Github-Dark.svg" width="48">   
+  <img src="./icons/VSCode-Dark.svg" width="48"> 
+</div>
 
 <h4>Want to learn in near future</h4>  
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<div>
+  <img src="./icons/TypeScript.svg" width="48"> 
+  <img src="./icons/TailwindCSS-Dark.svg" width="48">
+  <img src="./icons/Git.svg" width="48"> 
+  <img src="./icons/NodeJS-Dark.svg" width="48">
+  <img src="./icons/MongoDB.svg" width="48"> 
+  <img src="./icons/MySQL-Dark.svg" width="48"> 
+  <img src="./icons/PostgreSQL-Dark.svg" width="48">
+  <img src="./icons/Firebase-Dark.svg" width="48"> 
+</div>
 
 ##
 <h3>💬Where to find me</h3>
