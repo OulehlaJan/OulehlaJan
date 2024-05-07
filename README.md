@@ -82,7 +82,8 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
   <img src="./icons/CSS.svg" width="48">
   <img src="./icons/JavaScript.svg" width="48">  
   <img src="./icons/React-Dark.svg" width="48">
-  <img src="./icons/Bootstrap.svg" width="48"> 
+  <img src="./icons/Bootstrap.svg" width="48">
+  <img src="./icons/Firebase-Dark.svg" width="48"> 
   <img src="./icons/Github-Dark.svg" width="48">   
   <img src="./icons/VSCode-Dark.svg" width="48"> 
 </div>
@@ -96,7 +97,6 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
   <img src="./icons/MongoDB.svg" width="48"> 
   <img src="./icons/MySQL-Dark.svg" width="48"> 
   <img src="./icons/PostgreSQL-Dark.svg" width="48">
-  <img src="./icons/Firebase-Dark.svg" width="48"> 
 </div>
 
 ##
