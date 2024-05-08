@@ -63,8 +63,8 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 <a href="https://github.com/OulehlaJan/responsive-navbar" >
   <img align="center" height="126" src="https://github-readme-stats.vercel.app/api/pin/?username=oulehlajan&repo=responsive-navbar&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&card_width=504" />
 </a>
-<a href="https://github.com/OulehlaJan/lorem-ipsum-generator" >
-  <img align="center" height="126" src="https://github-readme-stats.vercel.app/api/pin/?username=oulehlajan&repo=lorem-ipsum-generator&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&card_width=504" />
+<a href="https://github.com/OulehlaJan/firebase-movie-database" >
+  <img align="center" height="126" src="https://github-readme-stats.vercel.app/api/pin/?username=oulehlajan&repo=firebase-movie-database&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&card_width=504" />
 </a>
 
 <p></p>
