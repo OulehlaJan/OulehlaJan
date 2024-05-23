@@ -5,7 +5,6 @@
   <a href="https://visitorbadge.io/status?path=oulehlajan"><img src="https://api.visitorbadge.io/api/visitors?path=oulehlajan&labelColor=%233e8acc&countColor=%23ffa657" /></a>
 </p>
 
-
 <!-- Welcome animated text -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=32&duration=3300&pause=4800&color=79C0FF&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B%2C+Hi%2C+I%E2%80%99m+%40OulehlaJan" />
