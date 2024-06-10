@@ -82,6 +82,7 @@ JSON         4 mins          █▒░░░░░░░░░░░░░░░
   <img src="./icons/JavaScript.svg" width="48">  
   <img src="./icons/React-Dark.svg" width="48">
   <img src="./icons/Bootstrap.svg" width="48">
+  <img src="./icons/TailwindCSS-Dark.svg" width="48">
   <img src="./icons/Firebase-Dark.svg" width="48"> 
   <img src="./icons/Github-Dark.svg" width="48">   
   <img src="./icons/VSCode-Dark.svg" width="48"> 
@@ -90,7 +91,6 @@ JSON         4 mins          █▒░░░░░░░░░░░░░░░
 <h4>Want to learn in near future</h4>  
 <div>
   <img src="./icons/TypeScript.svg" width="48"> 
-  <img src="./icons/TailwindCSS-Dark.svg" width="48">
   <img src="./icons/Git.svg" width="48"> 
   <img src="./icons/NodeJS-Dark.svg" width="48">
   <img src="./icons/MongoDB.svg" width="48"> 
