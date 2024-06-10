@@ -90,8 +90,7 @@ JSON         4 mins          █▒░░░░░░░░░░░░░░░
 
 <h4>Want to learn in near future</h4>  
 <div>
-  <img src="./icons/TypeScript.svg" width="48"> 
-  <img src="./icons/Git.svg" width="48"> 
+  <img src="./icons/TypeScript.svg" width="48">  
   <img src="./icons/NodeJS-Dark.svg" width="48">
   <img src="./icons/MongoDB.svg" width="48"> 
   <img src="./icons/MySQL-Dark.svg" width="48"> 
