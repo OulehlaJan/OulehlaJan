@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-    <defs>
-        <linearGradient id="halfGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-            <stop offset="50%" style="stop-color:#F7DF1E;stop-opacity:1" />
-            <stop offset="50%" style="stop-color:#3178C6;stop-opacity:1" />
-        </linearGradient>
-    </defs>
-    <path d="M19 13H5v-2h14v2z" fill="url(#halfGradient)" />
-</svg>
