@@ -41,6 +41,7 @@ CSS          1 min           ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ##
+<img src="./icons/JavaScript.svg" width="58"> <img src="./icons/plus-svgrepo.svg" width="30" align="" height="55"> <img src="./icons/React-Dark.svg" width="58" align="">
 <!-- Repos -->
 <a href="https://github.com/OulehlaJan/multipage-firebase-movie-db" >
   <img align="center" height="126" src="https://github-readme-stats.vercel.app/api/pin/?username=oulehlajan&repo=multipage-firebase-movie-db&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&card_width=504" />
