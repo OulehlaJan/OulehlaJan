@@ -41,7 +41,9 @@ CSS          1 min           ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ##
-<img src="./icons/JavaScript.svg" width="58"> <img src="./icons/plus-svgrepo.svg" width="30" align="" height="55"> <img src="./icons/React-Dark.svg" width="58" align="">
+<!-- Repos icons -->
+<img src="./icons/JavaScript.svg" width="58"> &nbsp;&nbsp;&nbsp; <img src="./icons/plus-svgrepo.svg" width="30" align="" height="55"> &nbsp;&nbsp;&nbsp; <img src="./icons/React-Dark.svg" width="58" align="">
+
 <!-- Repos -->
 <a href="https://github.com/OulehlaJan/multipage-firebase-movie-db" >
   <img align="center" height="126" src="https://github-readme-stats.vercel.app/api/pin/?username=oulehlajan&repo=multipage-firebase-movie-db&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&card_width=504" />
@@ -87,13 +89,13 @@ CSS          1 min           ░░░░░░░░░░░░░░░░░
   <img src="./icons/Bootstrap.svg" width="48">
   <img src="./icons/TailwindCSS-Dark.svg" width="48">
   <img src="./icons/Firebase-Dark.svg" width="48"> 
-  <img src="./icons/NodeJS-Dark.svg" width="48">
   <img src="./icons/Github-Dark.svg" width="48">   
   <img src="./icons/VSCode-Dark.svg" width="48"> 
 </div>
 
 <h4>Want to learn in near future</h4>  
 <div>
+  <img src="./icons/NodeJS-Dark.svg" width="48">
   <img src="./icons/MongoDB.svg" width="48"> 
   <img src="./icons/MySQL-Dark.svg" width="48"> 
   <img src="./icons/PostgreSQL-Dark.svg" width="48">
