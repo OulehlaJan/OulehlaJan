@@ -102,6 +102,7 @@ JavaScript   12 mins         ▒░░░░░░░░░░░░░░░░
   <img src="./icons/React-Dark.svg" width="48">
   <img src="./icons/Bootstrap.svg" width="48">
   <img src="./icons/TailwindCSS-Dark.svg" width="48">
+  <img src="./icons/Vite-Dark.svg" width="48">
   <img src="./icons/Firebase-Dark.svg" width="48"> 
   <img src="./icons/Github-Dark.svg" width="48">   
   <img src="./icons/VSCode-Dark.svg" width="48"> 
