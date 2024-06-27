@@ -112,7 +112,7 @@ JavaScript    45 mins         ▓░░░░░░░░░░░░░░░�
 <h4>Want to learn in near future</h4>  
 <div>
   <img src="./icons/NodeJS-Dark.svg" width="48">
-  <img src="./icons/Strapi-Dark.svg" width="48">
+  <img src="./icons/Strapi-Monogram-Dark.svg" width="48">
   <img src="./icons/MongoDB.svg" width="48"> 
   <img src="./icons/MySQL-Dark.svg" width="48"> 
   <img src="./icons/PostgreSQL-Dark.svg" width="48">
