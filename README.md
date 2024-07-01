@@ -46,11 +46,11 @@ HTML          17 mins         ▒░░░░░░░░░░░░░░░�
   <!-- Start of Spacing -->
 <img src="./icons/TypeScript.svg" width="58"> &nbsp;&nbsp; <img src="./icons/plus-svgrepo.svg" width="30" height="55"> &nbsp;&nbsp; <img src="./icons/React-Dark.svg" width="58"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!-- End of Spacing --> <img src="./icons/TypeScript.svg" width="58"> &nbsp;&nbsp; <img src="./icons/plus-svgrepo.svg" width="30" height="55"> &nbsp;&nbsp; <img src="./icons/React-Dark.svg" width="58"> &nbsp;&nbsp; <img src="./icons/plus-svgrepo.svg" width="30" height="55"> &nbsp;&nbsp; <img src="./icons/Vite-Dark.svg" width="58"> &nbsp;&nbsp; <img src="./icons/plus-svgrepo.svg" width="30" height="55"> &nbsp;&nbsp; <img src="./icons/TailwindCSS-Dark.svg" width="58">
 
-<a href="https://github.com/OulehlaJan/fitness-app" >
-  <img align="center" height="126" src="https://github-readme-stats.vercel.app/api/pin/?username=oulehlajan&repo=fitness-app&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&card_width=504" />
-</a>
 <a href="https://github.com/OulehlaJan/todo-app" >
   <img align="center" height="126" src="https://github-readme-stats.vercel.app/api/pin/?username=oulehlajan&repo=todo-app&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&card_width=504" />
+</a>
+<a href="https://github.com/OulehlaJan/fitness-app" >
+  <img align="center" height="126" src="https://github-readme-stats.vercel.app/api/pin/?username=oulehlajan&repo=fitness-app&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&card_width=504" />
 </a>
 
 ##
