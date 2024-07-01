@@ -57,7 +57,7 @@ HTML          17 mins         ▒░░░░░░░░░░░░░░░�
 ##
 
 <!-- Repos icons JS + React -->
-<img src="./icons/JavaScript.svg" width="58"> &nbsp;&nbsp;&nbsp; <img src="./icons/plus-svgrepo.svg" width="30" height="55"> &nbsp;&nbsp;&nbsp; <img src="./icons/React-Dark.svg" width="58">
+<img src="./icons/JavaScript.svg" width="58"> &nbsp;&nbsp; <img src="./icons/plus-svgrepo.svg" width="30" height="55"> &nbsp;&nbsp; <img src="./icons/React-Dark.svg" width="58">
 
 <!-- Repos JS + React -->
 <a href="https://github.com/OulehlaJan/netflix-wishlist" >
