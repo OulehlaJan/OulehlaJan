@@ -42,22 +42,22 @@ HTML          17 mins         ▒░░░░░░░░░░░░░░░�
 
 ##
 
-<!-- Repos icons TS + React -->
-<img src="./icons/TypeScript.svg" width="58"> &nbsp;&nbsp;&nbsp; <img src="./icons/plus-svgrepo.svg" width="30" align="" height="55"> &nbsp;&nbsp;&nbsp; <img src="./icons/React-Dark.svg" width="58" align="">
+<!-- Repos icons TS + React + Vite + TailWind -->
+<img src="./icons/TypeScript.svg" width="58"> &nbsp;&nbsp;&nbsp; <img src="./icons/plus-svgrepo.svg" width="30" height="55"> &nbsp;&nbsp;&nbsp; <img src="./icons/React-Dark.svg" width="58"> <!-- Start of Spacing -->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- End of Spacing -->
+<img src="./icons/TypeScript.svg" width="58"> &nbsp;&nbsp;&nbsp; <img src="./icons/plus-svgrepo.svg" width="30" height="55"> &nbsp;&nbsp;&nbsp; <img src="./icons/React-Dark.svg" width="58"> &nbsp;&nbsp;&nbsp; <img src="./icons/plus-svgrepo.svg" width="30" height="55"> &nbsp;&nbsp;&nbsp; <img src="./icons/Vite-Dark.svg" width="58"> &nbsp;&nbsp;&nbsp; <img src="./icons/plus-svgrepo.svg" width="30" height="55"> &nbsp;&nbsp;&nbsp; <img src="./icons/TailwindCSS-Dark.svg" width="58"> 
 
-<!-- Repos TS + React -->
 <a href="https://github.com/OulehlaJan/todo-app" >
-  <img align="center" height="126" src="https://github-readme-stats.vercel.app/api/pin/?username=oulehlajan&repo=todo-app&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true" />
+  <img align="center" height="126" src="https://github-readme-stats.vercel.app/api/pin/?username=oulehlajan&repo=todo-app&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&card_width=504" />
 </a>
-
 <a href="https://github.com/OulehlaJan/fitness-app" >
-  <img align="center" height="126" src="https://github-readme-stats.vercel.app/api/pin/?username=oulehlajan&repo=fitness-app&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true" />
+  <img align="center" height="126" src="https://github-readme-stats.vercel.app/api/pin/?username=oulehlajan&repo=fitness-app&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&card_width=504" />
 </a>
 
 ##
 
 <!-- Repos icons JS + React -->
-<img src="./icons/JavaScript.svg" width="58"> &nbsp;&nbsp;&nbsp; <img src="./icons/plus-svgrepo.svg" width="30" align="" height="55"> &nbsp;&nbsp;&nbsp; <img src="./icons/React-Dark.svg" width="58" align="">
+<img src="./icons/JavaScript.svg" width="58"> &nbsp;&nbsp;&nbsp; <img src="./icons/plus-svgrepo.svg" width="30" height="55"> &nbsp;&nbsp;&nbsp; <img src="./icons/React-Dark.svg" width="58">
 
 <!-- Repos JS + React -->
 <a href="https://github.com/OulehlaJan/netflix-wishlist" >
