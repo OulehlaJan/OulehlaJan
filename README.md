@@ -44,7 +44,7 @@ HTML          17 mins         ▒░░░░░░░░░░░░░░░�
 
 <!-- Repos icons TS + React + Vite + TailWind -->
 <img src="./icons/TypeScript.svg" width="58"> &nbsp;&nbsp;&nbsp; <img src="./icons/plus-svgrepo.svg" width="30" height="55"> &nbsp;&nbsp;&nbsp; <img src="./icons/React-Dark.svg" width="58"> <!-- Start of Spacing -->
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!-- End of Spacing -->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!-- End of Spacing -->
 <img src="./icons/TypeScript.svg" width="58"> &nbsp;&nbsp;&nbsp; <img src="./icons/plus-svgrepo.svg" width="30" height="55"> &nbsp;&nbsp;&nbsp; <img src="./icons/React-Dark.svg" width="58"> &nbsp;&nbsp;&nbsp; <img src="./icons/plus-svgrepo.svg" width="30" height="55"> &nbsp;&nbsp;&nbsp; <img src="./icons/Vite-Dark.svg" width="58"> &nbsp;&nbsp;&nbsp; <img src="./icons/plus-svgrepo.svg" width="30" height="55"> &nbsp;&nbsp;&nbsp; <img src="./icons/TailwindCSS-Dark.svg" width="58"> 
 
 <a href="https://github.com/OulehlaJan/todo-app" >
