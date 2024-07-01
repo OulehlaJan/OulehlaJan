@@ -111,6 +111,7 @@ HTML          17 mins         ▒░░░░░░░░░░░░░░░�
 
 <h4>Want to learn in near future</h4>  
 <div>
+  <img src="./icons/Redux.svg" width="48">
   <img src="./icons/Strapi-Monogram-Dark.svg" width="48">
   <img src="./icons/MaterialUI-Dark.svg" width="48">
   <img src="./icons/NodeJS-Dark.svg" width="48">
