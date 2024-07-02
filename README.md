@@ -42,10 +42,10 @@ HTML          22 mins         ▒░░░░░░░░░░░░░░░�
 
 ##
 
-<!-- 1. Repos icons TS + React && TS + React + Vite + TailWind -->
+<!-- 1. Icons TS + React && TS + React + Vite + TailWind -->
 <img src="./icons/TypeScript.svg" width="48"> &nbsp; <img src="./icons/plus-svgrepo.svg" width="20" height="45"> &nbsp; <img src="./icons/React-Dark.svg" width="48"> <!-- Start of Spacing --> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- End of Spacing --> <img src="./icons/TypeScript.svg" width="48"> &nbsp; <img src="./icons/plus-svgrepo.svg" width="20" height="45"> &nbsp; <img src="./icons/React-Dark.svg" width="48"> &nbsp; <img src="./icons/plus-svgrepo.svg" width="20" height="45"> &nbsp; <img src="./icons/Vite-Dark.svg" width="48"> &nbsp; <img src="./icons/plus-svgrepo.svg" width="20" height="45"> &nbsp; <img src="./icons/TailwindCSS-Dark.svg" width="48">
 
-<!-- 1. Repos TS + ... -->
+<!-- 1. Repos TS + React && TS + React + Vite + TailWind ... -->
 <a href="https://github.com/OulehlaJan/todo-app" >
   <img align="center" height="126" src="https://github-readme-stats.vercel.app/api/pin/?username=oulehlajan&repo=todo-app&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&card_width=504" />
 </a>
@@ -55,10 +55,10 @@ HTML          22 mins         ▒░░░░░░░░░░░░░░░�
 
 ##
 
-<!-- 2. Repos icons JS + React + ... -->
+<!-- 2. Icons JS + React && JS + React + Redux + Strapi + MaterialUI -->
 <img src="./icons/JavaScript.svg" width="48"> &nbsp; <img src="./icons/plus-svgrepo.svg" width="20" height="45"> &nbsp; <img src="./icons/React-Dark.svg" width="48"> <!-- Start of Spacing --> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- End of Spacing --> <img src="./icons/JavaScript.svg" width="48"> &nbsp; <img src="./icons/plus-svgrepo.svg" width="20" height="45"> &nbsp; <img src="./icons/React-Dark.svg" width="48"> &nbsp; <img src="./icons/plus-svgrepo.svg" width="20" height="45"> &nbsp; <img src="./icons/Redux.svg" width="48"> &nbsp; <img src="./icons/plus-svgrepo.svg" width="20" height="45"> &nbsp; <img src="./icons/Strapi-Monogram-Dark.svg" width="48"> &nbsp; <img src="./icons/plus-svgrepo.svg" width="20" height="45"> &nbsp; <img src="./icons/MaterialUI-Dark.svg" width="48">
 
-<!-- 2. Repos JS + React -->
+<!-- 2. Repos JS + React && JS + React + Redux + Strapi + MaterialUI -->
 <a href="https://github.com/OulehlaJan/netflix-wishlist" >
   <img align="center" height="126" src="https://github-readme-stats.vercel.app/api/pin/?username=oulehlajan&repo=netflix-wishlist&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&card_width=504" />
 </a>
@@ -68,6 +68,10 @@ HTML          22 mins         ▒░░░░░░░░░░░░░░░�
 
 <p></p>
 
+<!-- 3. Icons JS + React + Firebase && JS + React -->
+<img src="./icons/JavaScript.svg" width="48"> &nbsp; <img src="./icons/plus-svgrepo.svg" width="20" height="45"> &nbsp; <img src="./icons/React-Dark.svg" width="48">  &nbsp; <img src="./icons/plus-svgrepo.svg" width="20" height="45"> &nbsp; <img src="./icons/Firebase-Dark.svg" width="48"> <!-- Start of Spacing --> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- End of Spacing --> <img src="./icons/JavaScript.svg" width="48"> &nbsp; <img src="./icons/plus-svgrepo.svg" width="20" height="45"> &nbsp; <img src="./icons/React-Dark.svg" width="48">
+
+<!-- 3. Repos JS + React + Firebase && JS + React -->
 <a href="https://github.com/OulehlaJan/multipage-firebase-movie-db" >
   <img align="center" height="126" src="https://github-readme-stats.vercel.app/api/pin/?username=oulehlajan&repo=multipage-firebase-movie-db&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&card_width=504" />
 </a>
