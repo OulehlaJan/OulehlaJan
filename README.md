@@ -13,7 +13,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=noto&weight=600&size=22&duration=4000&pause=4350&color=FFA657&center=true&vCenter=true&random=false&width=910&lines=a+self-taught+passionate+Web+developer+from+Czechia" />
 </p>
 
-<h3>👀 I’m interested in JavaScript and web design</h3>
+<h3>👀 I’m Interested in JavaScript and Web Design</h3>
 
 <!-- Memoji -->
 <img align="right" width="322" height="414" src='https://github.com/OulehlaJan/OulehlaJan/assets/128754127/be861647-299a-4836-aa2d-429438705071' />
