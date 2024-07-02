@@ -42,6 +42,11 @@ HTML          22 mins         ▒░░░░░░░░░░░░░░░�
 
 ##
 
+<!-- TS REPOS -->
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=noto&weight=600&size=22&duration=4000&pause=4350&color=FFA657&center=true&vCenter=true&random=false&width=910&lines=JavaScript" />
+</p>
+
 <!-- 1. Icons TS + React && TS + React + Vite + TailWind -->
 <img src="./icons/TypeScript.svg" width="48"> &nbsp; <img src="./icons/plus-svgrepo.svg" width="20" height="45"> &nbsp; <img src="./icons/React-Dark.svg" width="48"> <!-- Start of Spacing --> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- End of Spacing --> <img src="./icons/TypeScript.svg" width="48"> &nbsp; <img src="./icons/plus-svgrepo.svg" width="20" height="45"> &nbsp; <img src="./icons/React-Dark.svg" width="48"> &nbsp; <img src="./icons/plus-svgrepo.svg" width="20" height="45"> &nbsp; <img src="./icons/Vite-Dark.svg" width="48"> &nbsp; <img src="./icons/plus-svgrepo.svg" width="20" height="45"> &nbsp; <img src="./icons/TailwindCSS-Dark.svg" width="48">
 
