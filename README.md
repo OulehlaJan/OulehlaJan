@@ -55,21 +55,21 @@ HTML          22 mins         ▒░░░░░░░░░░░░░░░�
 
 ##
 
-<!-- Repos icons JS + React -->
+<!-- 1. Repos icons JS + React + ... -->
 <img src="./icons/JavaScript.svg" width="58"> &nbsp;&nbsp; <img src="./icons/plus-svgrepo.svg" width="30" height="55"> &nbsp;&nbsp; <img src="./icons/React-Dark.svg" width="58">
 
 <!-- Repos JS + React -->
 <a href="https://github.com/OulehlaJan/ecommerce-fullstack" >
   <img align="center" height="126" src="https://github-readme-stats.vercel.app/api/pin/?username=oulehlajan&repo=ecommerce-fullstack&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&card_width=504" />
 </a>
-<a href="https://github.com/OulehlaJan/multipage-firebase-movie-db" >
-  <img align="center" height="126" src="https://github-readme-stats.vercel.app/api/pin/?username=oulehlajan&repo=multipage-firebase-movie-db&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&card_width=504" />
+<a href="https://github.com/OulehlaJan/netflix-wishlist" >
+  <img align="center" height="126" src="https://github-readme-stats.vercel.app/api/pin/?username=oulehlajan&repo=netflix-wishlist&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&card_width=504" />
 </a>
 
 <p></p>
 
-<a href="https://github.com/OulehlaJan/netflix-wishlist" >
-  <img align="center" height="126" src="https://github-readme-stats.vercel.app/api/pin/?username=oulehlajan&repo=netflix-wishlist&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&card_width=504" />
+<a href="https://github.com/OulehlaJan/multipage-firebase-movie-db" >
+  <img align="center" height="126" src="https://github-readme-stats.vercel.app/api/pin/?username=oulehlajan&repo=multipage-firebase-movie-db&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&card_width=504" />
 </a>
 <a href="https://github.com/OulehlaJan/animated-delete-button" >
   <img align="center" height="126" src="https://github-readme-stats.vercel.app/api/pin/?username=oulehlajan&repo=animated-delete-button&title_color=79C0FF&text_color=FFA657&bg_color=161B22&hide_border=true&card_width=504" />
