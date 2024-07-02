@@ -42,7 +42,7 @@ HTML          22 mins         ▒░░░░░░░░░░░░░░░�
 
 ##
 
-<img src="./icons/TypeScript.svg" width="58">
+<img src="./icons/TypeScript.svg" width="58" align="center">
 
 ##
 
