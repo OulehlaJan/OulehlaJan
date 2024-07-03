@@ -101,7 +101,7 @@ HTML          6 mins          ░░░░░░░░░░░░░░░░�
 
 ##
 
-<h3>Languages and tools:</h3>
+<h3>Languages and Tools:</h3>
 <div>
   <img src="./icons/HTML.svg" width="48">
   <img src="./icons/CSS.svg" width="48">
@@ -129,10 +129,14 @@ HTML          6 mins          ░░░░░░░░░░░░░░░░�
 </div>
 
 ##
-<h3>💬Where to find me</h3>
+
+<!-- Where to Find Me -->
+
+<h3>💬Where to Find Me</h3>
 <p>
-  <a href="https://github.com/oulehlajan/oulehlajan/issues" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/oulehlajan" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href=mailto:oulehlajan@gmail.com target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/oulehlajan/oulehlajan/issues" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 </p>
 
 <!-- Follow Badge -->
@@ -141,8 +145,3 @@ HTML          6 mins          ░░░░░░░░░░░░░░░░�
   <a href="https://github.com/oulehlajan?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/OulehlaJan?color=FFA657&labelColor=3E8ACC&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://visitorbadge.io/status?path=oulehlajan"><img src="https://api.visitorbadge.io/api/visitors?path=oulehlajan&labelColor=%233e8acc&countColor=%23ffa657" /></a>
 </p>
-
-<!--
-<a href="https://www.linkedin.com/in/oulehlajan" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-</p>
--->
