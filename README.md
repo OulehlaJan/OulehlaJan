@@ -27,15 +27,15 @@
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 28 June 2024 - To: 05 July 2024
+From: 29 June 2024 - To: 06 July 2024
 
-Total Time: 9 hrs 37 mins
+Total Time: 10 hrs 8 mins
 
-TypeScript    5 hrs 14 mins   █████████████▓░░░░░░░░░░░   54.42 %
-JavaScript    3 hrs 51 mins   ██████████░░░░░░░░░░░░░░░   40.13 %
-JSON          20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
-HTML          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-Image (svg)   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+JavaScript    8 hrs 32 mins   █████████████████████░░░░   84.35 %
+TypeScript    38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
+JSON          35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
+HTML          15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+Image (svg)   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 ```
 
 <!--END_SECTION:waka-->
