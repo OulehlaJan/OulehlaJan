@@ -27,13 +27,13 @@
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 19 July 2024 - To: 26 July 2024
+From: 20 July 2024 - To: 27 July 2024
 
-Total Time: 15 hrs 2 mins
+Total Time: 21 hrs 13 mins
 
-JavaScript   14 hrs 57 mins  █████████████████████████   99.45 %
-Bash         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+JavaScript   21 hrs          ████████████████████████▓   98.98 %
+JSON         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Bash         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
