@@ -53,13 +53,9 @@ Git Config                 1 hr 19 mins    ▒░░░░░░░░░░░�
 </a>
 
 ##
-<p align="center"><img src="./icons/JavaScript.svg" width="78" ></p><br/>
-
-
- <!--<img src="./icons/JavaScript.svg" width="48"> &nbsp; <img src="./icons/plus-svgrepo.svg" width="20" height="45"> &nbsp;  -->
 
 <!-- 2. Icons JS + React && JS + React + Redux + Strapi + MaterialUI -->
-<img src="./icons/React-Dark.svg" width="48"> <!-- Start of Spacing --> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- End of Spacing --> <img src="./icons/React-Dark.svg" width="48"> &nbsp; <img src="./icons/plus-svgrepo.svg" width="20" height="45"> &nbsp; <img src="./icons/MaterialUI-Dark.svg" width="48"> &nbsp; <img src="./icons/plus-svgrepo.svg" width="20" height="45"> &nbsp; <img src="./icons/Redux.svg" width="48"> &nbsp; <img src="./icons/plus-svgrepo.svg" width="20" height="45"> &nbsp; <img src="./icons/Strapi-Monogram-Dark.svg" width="48"> &nbsp; <img src="./icons/plus-svgrepo.svg" width="20" height="45"> <img src="./icons/PostgreSQL-Dark.svg" width="48">
+<img src="./icons/JavaScript.svg" width="48"> &nbsp; <img src="./icons/plus-svgrepo.svg" width="20" height="45"> &nbsp; <img src="./icons/React-Dark.svg" width="48"> <!-- Start of Spacing --> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- End of Spacing --> <img src="./icons/React-Dark.svg" width="48"> &nbsp; <img src="./icons/plus-svgrepo.svg" width="20" height="45"> &nbsp; <img src="./icons/MaterialUI-Dark.svg" width="48"> &nbsp; <img src="./icons/plus-svgrepo.svg" width="20" height="45"> &nbsp; <img src="./icons/Redux.svg" width="48"> &nbsp; <img src="./icons/plus-svgrepo.svg" width="20" height="45"> &nbsp; <img src="./icons/Strapi-Monogram-Dark.svg" width="48"> &nbsp; <img src="./icons/plus-svgrepo.svg" width="20" height="45"> <img src="./icons/PostgreSQL-Dark.svg" width="48">
 
 <!-- 2. Repos JS + React && JS + React + Redux + Strapi + MaterialUI -->
 <a href="https://github.com/OulehlaJan/netflix-wishlist" >
@@ -72,7 +68,7 @@ Git Config                 1 hr 19 mins    ▒░░░░░░░░░░░�
 <p></p>
 
 <!-- 3. Icons JS + React + Firebase && JS + React -->
-<img src="./icons/React-Dark.svg" width="48">  &nbsp; <img src="./icons/plus-svgrepo.svg" width="20" height="45"> &nbsp; <img src="./icons/Firebase-Dark.svg" width="48"> <!-- Start of Spacing --> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- End of Spacing --> <img src="./icons/JavaScript.svg" width="48"> &nbsp; <img src="./icons/plus-svgrepo.svg" width="20" height="45"> &nbsp; <img src="./icons/React-Dark.svg" width="48">
+<img src="./icons/JavaScript.svg" width="48"> &nbsp; <img src="./icons/plus-svgrepo.svg" width="20" height="45"> &nbsp; <img src="./icons/React-Dark.svg" width="48"> &nbsp; <img src="./icons/plus-svgrepo.svg" width="20" height="45"> &nbsp; <img src="./icons/Firebase-Dark.svg" width="48"> <!-- Start of Spacing --> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- End of Spacing --> <img src="./icons/JavaScript.svg" width="48"> &nbsp; <img src="./icons/plus-svgrepo.svg" width="20" height="45"> &nbsp; <img src="./icons/React-Dark.svg" width="48">
 
 <!-- 3. Repos JS + React + Firebase && JS + React -->
 <a href="https://github.com/OulehlaJan/multipage-firebase-movie-db" >
@@ -85,7 +81,7 @@ Git Config                 1 hr 19 mins    ▒░░░░░░░░░░░�
 <p></p>
 
 <!-- 4. Icons JS + React + Firebase && JS + React -->
-<img src="./icons/React-Dark.svg" width="48"> <!-- Start of Spacing --> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- End of Spacing --> <img src="./icons/JavaScript.svg" width="48"> &nbsp; <img src="./icons/plus-svgrepo.svg" width="20" height="45"> &nbsp; <img src="./icons/React-Dark.svg" width="48">
+<img src="./icons/JavaScript.svg" width="48"> &nbsp; <img src="./icons/plus-svgrepo.svg" width="20" height="45"> &nbsp; <img src="./icons/React-Dark.svg" width="48"> <!-- Start of Spacing --> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- End of Spacing --> <img src="./icons/JavaScript.svg" width="48"> &nbsp; <img src="./icons/plus-svgrepo.svg" width="20" height="45"> &nbsp; <img src="./icons/React-Dark.svg" width="48">
 
 <!-- 4. Repos JS + React && JS + React -->
 <a href="https://github.com/OulehlaJan/responsive-navbar-modern" >
