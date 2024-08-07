@@ -53,8 +53,8 @@ Git Config                 1 hr 19 mins    ▒░░░░░░░░░░░�
 </a>
 
 ##
+<p align="center"><img src="./icons/JavaScript.svg" width="78" ></p>
 
-<img src="./icons/JavaScript.svg" width="78" align="center">
 
  <!--<img src="./icons/JavaScript.svg" width="48"> &nbsp; <img src="./icons/plus-svgrepo.svg" width="20" height="45"> &nbsp;  -->
 
