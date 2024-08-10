@@ -26,15 +26,15 @@
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 02 August 2024 - To: 09 August 2024
+From: 03 August 2024 - To: 10 August 2024
 
-Total Time: 56 hrs 39 mins
+Total Time: 44 hrs 25 mins
 
-JavaScript                 39 hrs 26 mins  █████████████████░░░░░░░░   67.63 %
-JSON                       11 hrs 3 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.96 %
-Bash                       3 hrs 31 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
-Other                      1 hr 40 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
-TOML                       1 hr 12 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+JavaScript                 31 hrs 31 mins  █████████████████▒░░░░░░░   68.75 %
+JSON                       7 hrs 52 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.16 %
+Bash                       2 hrs 30 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+Other                      1 hr 25 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+TOML                       1 hr 12 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
 ```
 
 <!--END_SECTION:waka-->
