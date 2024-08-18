@@ -26,14 +26,11 @@
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 10 August 2024 - To: 17 August 2024
+From: 11 August 2024 - To: 18 August 2024
 
-Total Time: 2 hrs 28 mins
+Total Time: 0 secs
 
-JavaScript   2 hrs 24 mins   ████████████████████████▒   97.28 %
-Markdown     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
-TOML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
