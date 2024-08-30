@@ -26,11 +26,15 @@
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 22 August 2024 - To: 29 August 2024
+From: 29 February 2024 - To: 29 August 2024
 
-Total Time: 0 secs
+Total Time: 295 hrs 18 mins
 
-No activity tracked
+JavaScript                 190 hrs 9 mins  ████████████████░░░░░░░░░   63.74 %
+CSS                        32 hrs 43 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 %
+TypeScript                 32 hrs 30 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
+JSON                       23 hrs 36 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
+HTML                       5 hrs 26 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
 ```
 
 <!--END_SECTION:waka-->
