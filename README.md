@@ -26,7 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 23 September 2024 - To: 23 October 2024
+From: 24 September 2024 - To: 24 October 2024
 
 Total Time: 37 hrs 27 mins
 
