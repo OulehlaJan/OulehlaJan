@@ -26,15 +26,14 @@
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 08 October 2024 - To: 07 November 2024
+From: 09 October 2024 - To: 08 November 2024
 
-Total Time: 37 hrs 24 mins
+Total Time: 35 hrs 31 mins
 
-JavaScript    37 hrs 5 mins   ████████████████████████▓   99.10 %
-CSS           10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
-JSON          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-HTML          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Other         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+JavaScript   35 hrs 15 mins  ████████████████████████▓   99.24 %
+CSS          10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+JSON         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
