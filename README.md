@@ -26,13 +26,13 @@
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 16 October 2024 - To: 15 November 2024
+From: 17 October 2024 - To: 16 November 2024
 
-Total Time: 14 hrs 24 mins
+Total Time: 8 hrs 31 mins
 
-JavaScript   14 hrs 20 mins  █████████████████████████   99.48 %
-JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+JavaScript   8 hrs 27 mins   ████████████████████████▓   99.12 %
+JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
