@@ -26,11 +26,11 @@
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 31 October 2024 - To: 30 November 2024
+From: 01 November 2024 - To: 01 December 2024
 
-Total Time: 24 hrs 57 mins
+Total Time: 25 hrs 3 mins
 
-JavaScript    24 hrs 46 mins  ████████████████████████▓   99.23 %
+JavaScript    24 hrs 52 mins  ████████████████████████▓   99.23 %
 CSS           6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 Image (svg)   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 JSON          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
