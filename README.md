@@ -26,15 +26,15 @@
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 13 December 2024 - To: 12 January 2025
+From: 14 December 2024 - To: 13 January 2025
 
-Total Time: 47 hrs 9 mins
+Total Time: 48 hrs 14 mins
 
-JavaScript    42 hrs 48 mins  ██████████████████████▓░░   90.00 %
-Bash          1 hr 35 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
-CSS           1 hr 8 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
-JSON          1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-Other         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+JavaScript    43 hrs 53 mins  ██████████████████████▓░░   90.23 %
+Bash          1 hr 35 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+CSS           1 hr 8 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+JSON          1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+Other         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
 ```
 
 <!--END_SECTION:waka-->
