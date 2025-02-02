@@ -26,11 +26,11 @@
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 01 January 2025 - To: 31 January 2025
+From: 02 January 2025 - To: 01 February 2025
 
 Total Time: 24 hrs 13 mins
 
-JavaScript    19 hrs 54 mins  ████████████████████▒░░░░   80.80 %
+JavaScript    19 hrs 53 mins  ████████████████████▒░░░░   80.80 %
 Bash          1 hr 35 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
 CSS           1 hr 8 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
 JSON          1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
