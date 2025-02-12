@@ -26,12 +26,11 @@
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 11 January 2025 - To: 10 February 2025
+From: 12 January 2025 - To: 11 February 2025
 
-Total Time: 8 hrs 18 mins
+Total Time: 5 hrs 41 mins
 
-JavaScript    8 hrs 17 mins   █████████████████████████   99.91 %
-Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+JavaScript   5 hrs 41 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
