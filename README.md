@@ -26,11 +26,11 @@
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 14 January 2025 - To: 13 February 2025
+From: 15 January 2025 - To: 14 February 2025
 
-Total Time: 10 hrs 45 mins
+Total Time: 13 hrs 48 mins
 
-JavaScript   10 hrs 45 mins  █████████████████████████   99.99 %
+JavaScript   13 hrs 48 mins  █████████████████████████   99.99 %
 CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
