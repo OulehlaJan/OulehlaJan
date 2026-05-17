@@ -28,9 +28,9 @@
 ```javascript
 From: 10 April 2024 - To: 16 May 2026
 
-Total Time: 754 hrs 34 mins
+Total Time: 754 hrs 57 mins
 
-JavaScript                 635 hrs 41 mins       █████████████████████░░░░   83.84 %
+JavaScript                 635 hrs 44 mins       █████████████████████░░░░   83.80 %
 CSS                        35 hrs 25 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
 TypeScript                 32 hrs 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
 JSON                       27 hrs 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
